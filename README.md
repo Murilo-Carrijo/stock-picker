@@ -14,7 +14,7 @@
 
 1. Clone the repository
 
-- `git@github.com:Murilo-Carrijo/sub-strings.git`
+- `git@github.com:Murilo-Carrijo/stock-picker.git`
 - Enter the repository folder you just cloned:
   - `cd stock-picker`
 
